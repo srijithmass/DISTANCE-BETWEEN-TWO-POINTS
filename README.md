@@ -10,7 +10,7 @@ Classify with x1,x2 and y1,y2 points.
 ### Step 3
 Import math module.
 ### Step 3: 
-Substitute the values in the distance formula.![formula](formula.jpg)
+Substitute the values in the distance formula.![formula](formula.png)
 ##
 ### Step 5: 
 Display the output using format function.
