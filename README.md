@@ -26,4 +26,4 @@ print("{:.2f}".format(value))
 ## Output:
 ![Output](Screenshot.png)
 ## Result:
-Thus the circulating the values  of N variables are successfully executed!!!
+Thus the Distance Between The Two points are successfully executed!!!
