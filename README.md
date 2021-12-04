@@ -9,7 +9,7 @@ Get 4 inputs from the user.
 Classify with x1,x2 and y1,y2 points.
 ### Step 3
 Import math module.
-### Step 3: 
+### Step 4: 
 Substitute the values in the distance formula.![formula](formula.png)
 ##
 ### Step 5: 
