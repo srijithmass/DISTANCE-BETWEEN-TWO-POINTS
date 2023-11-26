@@ -8,7 +8,7 @@ Import math module to use the built-in functions for calculation
 ### Step 2: 
 Create two list for finding a distance between two points
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  ![formula](formula.png)
 ### Step 4: 
 Print the value in two decimal points.
 ### Step 5: 
@@ -25,7 +25,7 @@ d=math.sqrt((list2[0]-list1[0])**2+(list2[1]-list1[1])**2)
 print(round(d,2))
 ```
 ### OUTPUT:
-![Screensho.png)
+![Screenshot.png)
 
 
 ### RESULT:
